@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JackedInAllTrades
-- 👀 I’m interested in ... well, All things STEMM.
+- 👀 I’m interested in ... well, all things STEMM.
 - 🌱 I’m currently learning LaTeX, bioinformatics, NGS, and biomedical data analysis.
 - 📫 How to reach me: jackedinalltrades@gmail.com
 - ⚡ Fun fact: I actually exist. I know, shocking.
